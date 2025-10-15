@@ -85,6 +85,4 @@ MIT License
 
 ---
 
-If you want, I can also make an **even cleaner one-page version** that’s visually compact and GitHub-ready. It will be perfect for quick browsing.  
 
-Do you want me to do that?
