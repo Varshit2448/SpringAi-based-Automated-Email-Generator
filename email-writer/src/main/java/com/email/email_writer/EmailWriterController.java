@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**/
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/email")
 @AllArgsConstructor
@@ -26,3 +27,4 @@ public class EmailWriterController {
 
 
 }
+
