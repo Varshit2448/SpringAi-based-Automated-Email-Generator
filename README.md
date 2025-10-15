@@ -81,7 +81,7 @@ Contributions are welcome! Submit a PR or open an issue for bugs or feature requ
 
 ## License
 
-MIT License  
+Unlicense License  
 
 ---
 
